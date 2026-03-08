@@ -4,6 +4,11 @@
 프론트엔드(React)에서 노선을 선택하면 백엔드(Spring Boot)가 정류장/경로/버스 위치를 제공하고,
 지도(Kakao Maps)에 버스 이동 상황을 표시합니다.
 
+<img width="1266" height="731" alt="image" src="https://github.com/user-attachments/assets/5f6aca69-80c8-4a38-9ad9-54aef83620c7" />
+<img width="1269" height="735" alt="image" src="https://github.com/user-attachments/assets/51cfb85e-f421-4ca4-a01b-e66add4bd767" />
+
+
+
 ## 프로젝트 목적
 
 - 노선/정류장 데이터 조회 기능 구현
@@ -26,6 +31,9 @@
 - 프론트엔드가 위치 API를 주기적으로 호출
 - 지도 마커를 최신 좌표로 업데이트
 - 노선 상세 모달에서 정류장 단위 버스 위치 확인
+<img width="1144" height="741" alt="image" src="https://github.com/user-attachments/assets/d07a2db9-62ec-41d3-921c-500291e2f5ab" />
+<img width="1237" height="745" alt="image" src="https://github.com/user-attachments/assets/55b42671-0286-4e1b-b72a-3930701eea87" />
+
 
 ## 기술 스택
 
@@ -41,6 +49,11 @@
 - Spring Data JPA
 - MySQL 8
 - Gradle
+
+### BIS DBMS
+<img width="1257" height="605" alt="image" src="https://github.com/user-attachments/assets/63d8de35-d326-4b8c-86ea-f3d25ffbb323" />
+<img width="1138" height="609" alt="image" src="https://github.com/user-attachments/assets/a5cd50b1-da2d-4a3a-af26-128d053fcd7b" />
+
 
 ## 구조
 
